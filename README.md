@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1CIJpogvTCZmzB6xeA8zXY5NerFB6bsHv?usp=sha
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 ## Authors
 
-- Adithya Challa[@Adi16023](https://github.com/Adi16023)
-- Ayesha Malaika[@AyeshaM](https://github.com/AyeshaM)
-- Varun N[@VarunN](https://github.com/VarunN)
+- Adithya Challa [@Adi16023](https://github.com/Adi16023)
+- Ayesha Malaika [@AyeshaM](https://github.com/AyeshaM)
+- Varun N [@VarunN](https://github.com/VarunN)
 
