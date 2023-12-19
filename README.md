@@ -1,9 +1,9 @@
 
-# StellarIndia
+# SpaceZ
 
 The purpose of this project is to develop the ultimate Space Edu-Tainment experience in a variety of platforms.
 
-From the start, StellarIndia has been developed to be light-weight, fast and easy to use. It is built with the purpose that education comes together with interaction.
+From the start, SpaceZ has been developed to be light-weight, fast and easy to use. It is built with the purpose that education comes together with interaction.
 
 This project has been built using the Flutter framework, which allows to build an app for mobile, desktop & web, from a single codebase.
 
@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1CIJpogvTCZmzB6xeA8zXY5NerFB6bsHv?usp=sha
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 ## Authors
 
-- Carol Dsilva[@CarolDsillva](https://github.com/CarolDsillva)
-- Adrian Richard[@AaReechu](https://github.com/AaReechu)
-- Aishwaraya Biradar[@Aichwaryabiradar](https://github.com/Aichwaryabiradar)
+- Adithya Challa[@Adi16023](https://github.com/Adi16023)
+- Ayesha Malaika[@AyeshaM](https://github.com/AyeshaM)
+- Varun N[@VarunN](https://github.com/VarunN)
 
